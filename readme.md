@@ -3,10 +3,9 @@
 <p align="center">
 🌟 <a href="https://www.linkedin.com/in/lkm227" target="_blank">LinkedIn</a> | 🌟 <a href="https://github.com/lkim227" target="_blank">GitHub</a>
 </p>
-
----
+<br>
 <h3 align="center">Languages and Tools</h3>
--->
+
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img
             src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a> <a
         href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
