@@ -113,7 +113,7 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg"
             alt="nativescript" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank"
-        rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" /> </a> 
+        rel="noreferrer"> <img src="./icons/NestJS-Dark.svg" width="40" height="40"> </a> 
             <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a> <a
         href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
