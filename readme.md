@@ -151,7 +151,7 @@
             alt="redis" width="40" height="40" /> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby"
-            width="40" height="40" /> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img alt="The Rust Programming Language: A language empowering everyone to build reliable and efficient software" src="https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-light.svg" width="50%"> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+            width="40" height="40" /> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img alt="rust" src="https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-light.svg" width="40" height="40"> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="40" height="40" /> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala"
