@@ -197,7 +197,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Full Stack Developer** with over six years of experience in designing and implementing advanced software solutions. I specialize in both frontend and backend development, with a strong foundation in Python, Django, Next.js, and NestJS. My expertise extends to optimizing PostgreSQL schemas, integrating RESTful APIs, and leveraging Docker and CI/CD pipelines to streamline development and deployment processes. I'm passionate about Web3 and blockchain technologies, focusing on Rust and smart contracts.
+**Senior Full Stack Developer** with over six years of experience in software design and implementation. Proficient in frontend and backend technologies like Python, Django, Next.js, and NestJS, with a solid background in database management. Experienced in leading projects and teams, optimizing PostgreSQL schemas, integrating RESTful APIs with Redux, and using Docker and CI/CD pipelines. Currently self-studying blockchain and Web3, including the Rinkeby test network and Rust and C++ for backend development. Also working on Layer 2 solutions like Merkle trees, developing smart contracts with Solidity, and creating frontend marketplaces for NFT transactions.
 
 ---
 
