@@ -197,11 +197,11 @@
 
 ### 👨‍💻 About Me
 
-**Senior Full Stack Developer** with over six years of experience in software design and implementation. Proficient in frontend and backend technologies such as Python, Django, Next.js, and NestJS, with a solid background in database management and optimization. Skilled in leading projects and teams, with experience optimizing PostgreSQL schemas, integrating RESTful APIs with Redux, and leveraging Docker and CI/CD pipelines.
+**Senior Full Stack Developer** with over six years of experience in software design and implementation. Proficient in both frontend and backend technologies, including Python, Django, Next.js, and NestJS, with strong skills in database management and optimization. Experienced in leading projects and teams, optimizing PostgreSQL schemas, integrating RESTful APIs with Redux, and utilizing Docker and CI/CD pipelines.
 
-Extensive experience with microservices architectures, focusing on decoupling services for scalability and resilience. Proficient in using Kafka and RabbitMQ as message brokers to enable asynchronous communication between services, balance workloads, and reduce system bottlenecks by efficiently managing message queuing and distribution.
+Experienced with microservices architecture, focusing on service decoupling for better scalability and resilience. Adept at using Kafka and RabbitMQ for asynchronous communication, workload balancing, and managing message queuing.
 
-Currently self-studying blockchain and Web3 technologies, including work on the Rinkeby test network and Rust and C++ for backend development. Developing smart contracts with Solidity and building frontend marketplaces for NFT transactions, while also exploring Layer 2 solutions such as Merkle trees for enhanced scalability.
+Currently self-studying blockchain and Web3 technologies, including the Rinkeby test network and backend development with Rust and C++. Developing smart contracts with Solidity, building frontend marketplaces for NFT transactions, and exploring Layer 2 solutions like Merkle trees for enhanced scalability.
 
 ---
 
