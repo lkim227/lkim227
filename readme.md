@@ -197,11 +197,7 @@
 
 ### 👨‍💻 About Me
 
-**Senior Full Stack Developer** with over six years of experience in software design and implementation. Proficient in both frontend and backend technologies, including Python, Django, Next.js, and NestJS, with strong skills in database management and optimization. Experienced in leading projects and teams, optimizing PostgreSQL schemas, integrating RESTful APIs with Redux, and utilizing Docker and CI/CD pipelines.
-
-Experienced with microservices architecture, focusing on service decoupling for better scalability and resilience. Adept at using Kafka and RabbitMQ for asynchronous communication, workload balancing, and managing message queuing.
-
-Currently self-studying blockchain and Web3 technologies, including the Rinkeby test network and backend development with Rust and C++. Developing smart contracts with Solidity, building frontend marketplaces for NFT transactions, and exploring Layer 2 solutions like Merkle trees for enhanced scalability.
+Results-oriented Senior Full Stack Developer with over 6 years of comprehensive experience in software development, specializing in Python, Django, Next.js, and NestJS. Proven expertise in database management, API integration, and project leadership within Agile environments. Proficient in developing scalable microservices architectures using Kafka and RabbitMQ. Currently expanding knowledge in blockchain and Web3 technologies, focusing on smart contracts, NFT marketplaces, and Layer 2 solutions.
 
 ---
 
@@ -226,13 +222,19 @@ SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, React, D
 NestJS, Vue, Angular, Redux, Next.js, Docker, Jest (unit & e2e tests), Svelte, React, Django, Laravel, Chrome Extension, AI (IPython, YOLO)
 
 **Databases:**  
-PostgreSQL, MongoDB
+PostgreSQL, MongoDB, MySQL, Redis
 
-**Tools/Platforms:**  
-Microservices (Kafka, RabbitMQ, MQTT), SEO, Git, CI/CD (GitHub Actions), Docker, Kubernetes, Cloud Servers (AWS, Azure, ThingsBoard)
+**DevOps/Tools:**  
+Docker, Kubernetes, CI/CD(GitHub Actions), AWS, Nginx
+
+**Cloud Platforms:**  
+AWS (S3, Lambda, API Gateway), GCP, Azure
+
+**Platforms:**  
+Microservices (Kafka, RabbitMQ, MQTT), SEO
 
 **Project Management:**  
-Nifty, Agile methodologies
+Nifty, Agile, Scrum, Jira
 
 **Design/Prototyping:**  
 Figma, UI/UX Design
@@ -246,28 +248,51 @@ English, Chinese, Korean
 
 **Full Stack Developer | Confidential Retail Technology Company**  
 *Aug 2024 – Present*  
-- Led the integration of a Python Django project with Shopify to enhance the retail technology platform.
-- Developed a centralized system for managing unsold inventory across retail channels.
-- Enhanced user experience by facilitating the purchase of discounted items from nearby stores.
+- Led the integration of a Python Django project with Shopify, improving system performance by 30%
+- Developed a centralized inventory management system, facilitating the sale of unsold items and reducing waste
+- Enhanced user experience by enabling customers to purchase discounted items from nearby stores
+*Tech Stack:*
+Languages: Python, JavaScript
+Frameworks: Django
+Databases: PostgreSQL
+Tools: Docker, CI/CD (GitHub Actions), AWS
 
 **Full Stack Team Lead & Project Manager | Confidential**  
 *Sept 2023 – Aug 2024*  
-- Led the development of a Hotel Reservation System, optimizing guest booking experiences.
-- Managed project planning and coordination among cross-functional teams using Nifty.
+- Directed development of a Hotel Reservation System, optimizing guest booking 
+- Managed Agile project planning, enhancing operational efficiency by 25%
 - Implemented scalable backend solutions with NestJS and Kafka microservices.
+*Tech Stacks:*
+Languages: JavaScript, TypeScript
+Frameworks: Next.js, NestJS
+Databases: PostgreSQL
+Tools: Docker, Kubernetes, Jira, Nifty
 
-**Shopify Developer | WIGME.COM**  
+** Senior Full Stack Developer (Remote) | WIGME.COM**  
 *Sept 2021 - Dec 2022*  
-- Enhanced e-commerce platform usability through Shopify theme development and React integration.
-- Redesigned and optimized design editor, reducing bounce rates by 40%.
+- Improved code quality and backend services, increasing uptime by 20%
+- Collaborated on React best practices for enhanced data management
+*Tech Stack:*
+Languages: JavaScript, Python
+Frameworks: React
+Tools: Sentry, AWS CloudWatch
 
-**Full-Stack Developer (Remote) | STORE.MOMOFUKU.COM**  
+**Shopify Developer | STORE.MOMOFUKU.COM**  
 *May 2020 - Sept 2021*  
-- Optimized MOMOFUKU's online store platform and led AWS infrastructure optimization, increasing revenue by 20%.
+- Developed Shopify themes and integrated React, improving platform usability
+- Streamlined invoice processing, saving 125,000 manual hours monthly
+*Tech Stack:*
+Languages: JavaScript, Liquid
+Frameworks: React
+Tools: Shopify, Node.js
 
-**IoT Engineer & Software Developer | NEWYORKFASHIONHOUSENY.COM**  
+**IoT Engineer & Software Developer | Pro-Hub.COM**  
 *Sept 2019 – Jun 2020*  
-- Developed "Make Your Home Smart," an IoT solution for residential automation.
+- Designed "Make Your Home Smart" IoT solution, enhancing energy efficiency
+- Integrated IoT devices for centralized management via ThingsBoard
+*Tech Stack:*
+Languages: Python, JavaScript, C, Java, C++
+Tools: ThingsBoard, MQTT, Docker, Android Studio
 
 ---
 
