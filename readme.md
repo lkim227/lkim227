@@ -262,7 +262,7 @@ Tools: Docker, CI/CD (GitHub Actions), AWS
 - Directed development of a Hotel Reservation System, optimizing guest booking 
 - Managed Agile project planning, enhancing operational efficiency by 25%
 - Implemented scalable backend solutions with NestJS and Kafka microservices.
-*Tech Stacks:*
+- *Tech Stacks:*
 Languages: JavaScript, TypeScript
 Frameworks: Next.js, NestJS
 Databases: PostgreSQL
@@ -272,7 +272,7 @@ Tools: Docker, Kubernetes, Jira, Nifty
 *Sept 2021 - Dec 2022*  
 - Improved code quality and backend services, increasing uptime by 20%
 - Collaborated on React best practices for enhanced data management
-*Tech Stack:*
+- *Tech Stack:*
 Languages: JavaScript, Python
 Frameworks: React
 Tools: Sentry, AWS CloudWatch
@@ -281,7 +281,7 @@ Tools: Sentry, AWS CloudWatch
 *May 2020 - Sept 2021*  
 - Developed Shopify themes and integrated React, improving platform usability
 - Streamlined invoice processing, saving 125,000 manual hours monthly
-*Tech Stack:*
+- *Tech Stack:*
 Languages: JavaScript, Liquid
 Frameworks: React
 Tools: Shopify, Node.js
@@ -290,7 +290,7 @@ Tools: Shopify, Node.js
 *Sept 2019 – Jun 2020*  
 - Designed "Make Your Home Smart" IoT solution, enhancing energy efficiency
 - Integrated IoT devices for centralized management via ThingsBoard
-*Tech Stack:*
+- *Tech Stack:*
 Languages: Python, JavaScript, C, Java, C++
 Tools: ThingsBoard, MQTT, Docker, Android Studio
 
