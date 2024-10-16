@@ -225,7 +225,9 @@ SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, React, D
 NestJS, Vue, Angular, Redux, Next.js, Docker, Jest (unit & e2e tests), Svelte, React, Django, Laravel, Chrome Extension, AI (IPython, YOLO)
 
 **Databases:**  
-PostgreSQL, MongoDB, MySQL, Redis
+PostgreSQL, MongoDB, MySQL, AWS DynamoDB
+
+**Cache:**  Redis
 
 **DevOps/Tools:**  
 Docker, Kubernetes, CI/CD(GitHub Actions), AWS, Nginx
