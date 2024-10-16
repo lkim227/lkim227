@@ -193,6 +193,9 @@
     <a href="https://www.atlassian.com" target="_blank"  rel="noreferrer"> 
         <img src="./icons/jira.svg" alt="jira" width="40" height="40" /> 
     </a>
+    <a href="https://www.redis.io" target="_blank"  rel="noreferrer"> 
+        <img src="./icons/Dark-Redis.svg" alt="redis" width="40" height="40" /> 
+    </a>
 </p>
 
 ### 👨‍💻 About Me
