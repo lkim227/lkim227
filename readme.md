@@ -247,7 +247,7 @@ English, Chinese, Korean
 ### 🏆 Experience
 
 **Full Stack Developer | Confidential Retail Technology Company**  
-*Aug 2024 – Present*  
+*Jan 2023 – Present*  
 - Led the integration of a Python Django project with Shopify, improving system performance by 30%
 - Developed a centralized inventory management system, facilitating the sale of unsold items and reducing waste
 - Enhanced user experience by enabling customers to purchase discounted items from nearby stores
@@ -257,8 +257,7 @@ Frameworks: Django
 Databases: PostgreSQL
 Tools: Docker, CI/CD (GitHub Actions), AWS
 
-**Full Stack Team Lead & Project Manager | Confidential**  
-*Sept 2023 – Aug 2024*  
+Project: Hotel Reservation System
 - Directed development of a Hotel Reservation System, optimizing guest booking 
 - Managed Agile project planning, enhancing operational efficiency by 25%
 - Implemented scalable backend solutions with NestJS and Kafka microservices.
