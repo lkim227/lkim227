@@ -328,5 +328,6 @@ Explore more of my projects on my [GitHub profile](https://github.com/lkim227).
 ### 📫 Contact
 
 - **Email:** [lucas98kim227@gmail.com](mailto:lucas98kim227@gmail.com)
+- **Telegram:** [@black_hole_fear](https://t.me/black_hole_fear)
 - **WhatsApp:** [+65 9240 7360](https://wa.me/6592407360)
 - **Skype:** [live:.cid.9f6b5ffee2f05b0c](skype:live:.cid.9f6b5ffee2f05b0c)
