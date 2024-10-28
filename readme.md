@@ -244,8 +244,6 @@ Nifty, Agile, Scrum, Jira
 **Design/Prototyping:**  
 Figma, UI/UX Design
 
-**Languages Spoken:**  
-English, Chinese, Korean
 
 ---
 
