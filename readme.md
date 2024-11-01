@@ -227,13 +227,16 @@ NestJS, Vue, Angular, Redux, Next.js, Docker, Jest (unit & e2e tests), Svelte, R
 **Databases:**  
 PostgreSQL, MongoDB, MySQL, AWS DynamoDB
 
-**Cache:**  Redis
+**Cache:**  Redis, Amazon ElastiCache, DynamoDB Accelerator (DAX)
 
 **DevOps/Tools:**  
 Docker, Kubernetes, CI/CD(GitHub Actions), AWS, Nginx
 
 **Cloud Platforms:**  
 AWS (S3, Lambda, API Gateway), GCP, Azure
+
+**Search Engines:**  
+Elasticsearch, Apache Solr, Amazon CloudSearch
 
 **Platforms:**  
 Microservices (Kafka, RabbitMQ, MQTT), SEO
