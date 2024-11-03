@@ -219,7 +219,7 @@ Results-oriented Senior Full Stack Developer with over 6 years of comprehensive 
 ### 🛠️ Technical Skills
 
 **Languages:**  
-SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, React, Django, Liquid, C, C++, Java, TypeScript
+SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, Liquid, C, C++, Java, TypeScript, Python
 
 **Frameworks/Libraries:**  
 NestJS, Vue, Angular, Redux, Next.js, Docker, Jest (unit & e2e tests), Svelte, React, Django, Laravel, Chrome Extension, AI (IPython, YOLO)
