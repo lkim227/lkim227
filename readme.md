@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Lucas Kim's GitHub Profile</h1>
 
 <p align="center">
-🌟 <a href="https://www.linkedin.com/in/lkm227" target="_blank">LinkedIn</a> | 🌟 <a href="https://github.com/lkim227" target="_blank">GitHub</a>
+🌟 <a href="https://www.linkedin.com/in/lkim227" target="_blank">LinkedIn</a> | 🌟 <a href="https://github.com/lkim227" target="_blank">GitHub</a>
 </p>
 <br>
 <h3 align="center">Languages and Tools</h3>
