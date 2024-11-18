@@ -225,7 +225,7 @@ SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, Liquid, 
 NestJS, Vue, Angular, Redux, Next.js, Docker, Jest (unit & e2e tests), Svelte, React, Django, Laravel, Chrome Extension, AI (IPython, YOLO)
 
 **SDKs/Libraries:**  
-JDK, NDK, OpenCV, Luxand FaceSDK
+JDK, NDK, OpenCV, Luxand FaceSDK, WinDDK
 
 **Databases:**  
 PostgreSQL, MongoDB, MySQL, AWS DynamoDB
