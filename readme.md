@@ -219,10 +219,10 @@ Results-oriented Senior Full Stack Developer with over 6 years of comprehensive 
 ### 🛠️ Technical Skills
 
 **Languages:**  
-SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, Liquid, C, C++, Java, TypeScript, Python
+SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, Liquid, C, C++, Java, Kotlin, Swift, TypeScript, Python
 
 **Frameworks/Libraries:**  
-NestJS, Vue, Angular, Redux, Next.js, Docker, Jest (unit & e2e tests), Svelte, React, Django, Laravel, Chrome Extension, AI (IPython, YOLO)
+NestJS, Vue, Angular, Redux, Next.js, React Native(Expo), KMP(Compose Multiplatform), Docker, Jest (unit & e2e tests), Svelte, React, Django, Laravel, Chrome Extension, AI (IPython, YOLO)
 
 **SDKs/Libraries:**  
 JDK, NDK, OpenCV, Luxand FaceSDK, WinDDK
@@ -230,13 +230,16 @@ JDK, NDK, OpenCV, Luxand FaceSDK, WinDDK
 **Databases:**  
 PostgreSQL, MongoDB, MySQL, AWS DynamoDB
 
+**Authentication:**
+Google Authentication, Firebase, Facebook, Apple
+
 **Cache:**  Redis, Amazon ElastiCache, DynamoDB Accelerator (DAX)
 
 **DevOps/Tools:**  
 Docker, Kubernetes, CI/CD(GitHub Actions), AWS, Nginx
 
 **Cloud Platforms:**  
-AWS (S3, Lambda, API Gateway), GCP, Azure
+AWS (S3, Lambda, API Gateway), GCP, Azure, Firebase
 
 **Search Engines:**  
 Elasticsearch, Apache Solr, Amazon CloudSearch
