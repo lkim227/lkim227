@@ -236,7 +236,7 @@ Google Authentication, Firebase, Facebook, Apple
 **Cache:**  Redis, Amazon ElastiCache, DynamoDB Accelerator (DAX)
 
 **DevOps/Tools:**  
-Docker, Kubernetes, CI/CD(GitHub Actions), AWS, Nginx
+Docker, Kubernetes, CI/CD(GitHub Actions), AWS, Nginx, Prisma, DrizzleORM
 
 **Cloud Platforms:**  
 AWS (S3, Lambda, API Gateway), GCP, Azure, Firebase
