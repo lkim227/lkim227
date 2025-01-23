@@ -200,7 +200,7 @@
 
 ### 👨‍💻 About Me
 
-Results-oriented Full Stack Developer with over 6 years of comprehensive experience in software development, specializing in Python, Django, Next.js, and NestJS. Proven expertise in database management, API integration, and project leadership within Agile environments. Proficient in developing scalable microservices architectures using Kafka and RabbitMQ. Currently expanding knowledge in blockchain and Web3 technologies, focusing on smart contracts, NFT marketplaces, and Layer 2 solutions.
+Results-oriented Full Stack Developer with over 7 years of comprehensive experience in software development, specializing in Python, Django, Next.js, and NestJS. Proven expertise in database management, API integration, and project leadership within Agile environments. Proficient in developing scalable microservices architectures using Kafka and RabbitMQ. Currently expanding knowledge in blockchain and Web3 technologies, focusing on smart contracts, NFT marketplaces, and Layer 2 solutions.
 
 ---
 
