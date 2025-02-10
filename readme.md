@@ -339,4 +339,3 @@ Explore more of my projects on my [GitHub profile](https://github.com/lkim227).
 
 - **Email:** [Lucas Kim](mailto:lucaskimhy@gmail.com)
 - **Telegram:** [@black_hole_fear](https://t.me/black_hole_fear)
-- **Discord:** mac0274
