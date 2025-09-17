@@ -219,7 +219,7 @@ Ping me
 ### 🛠️ Technical Skills
 
 **Languages:**  
-SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, Liquid, C, C++, Java, Kotlin, Swift, TypeScript, Python
+SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, Liquid, C, C++, C#, Java, Kotlin, Swift, TypeScript, Python
 
 **Frameworks/Libraries:**  
 NestJS, Vue, Angular, Redux, Next.js, React Native(Expo), KMP(Compose Multiplatform), Docker, Jest (unit & e2e tests), Svelte, React, Django, Laravel, Chrome Extension, AI (IPython, YOLO)
