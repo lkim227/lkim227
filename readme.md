@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Lucas Kim's GitHub Profile</h1>
+<h1 align="center">Welcome to My GitHub Profile</h1>
 
 <br>
 <h3 align="center">Languages and Tools</h3>
