@@ -233,7 +233,7 @@ PostgreSQL, MongoDB, MySQL, AWS DynamoDB
 **Authentication:**
 Google OAuth2.0, Firebase, Facebook, Apple
 
-**Payment**
+**Payment Integration:**
 Paypal SDK, Stripe, Authroize.Net
 
 **Cache:**  Redis, Amazon ElastiCache, DynamoDB Accelerator (DAX)
