@@ -231,7 +231,10 @@ JDK, NDK, OpenCV, Luxand FaceSDK, WinDDK
 PostgreSQL, MongoDB, MySQL, AWS DynamoDB
 
 **Authentication:**
-Google Authentication, Firebase, Facebook, Apple
+Google OAuth2.0, Firebase, Facebook, Apple
+
+**Payment**
+Paypal SDK, Stripe, Authroize.Net
 
 **Cache:**  Redis, Amazon ElastiCache, DynamoDB Accelerator (DAX)
 
@@ -239,7 +242,7 @@ Google Authentication, Firebase, Facebook, Apple
 Docker, Kubernetes, CI/CD(GitHub Actions), AWS, Nginx, Prisma, DrizzleORM
 
 **Cloud Platforms:**  
-AWS (S3, Lambda, API Gateway), GCP, Azure, Firebase
+AWS (S3, EC2, Lambda, API Gateway), GCP, Azure, Firebase
 
 **Search Engines:**  
 Elasticsearch, Apache Solr, Amazon CloudSearch
