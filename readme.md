@@ -251,7 +251,7 @@ Elasticsearch, Apache Solr, Amazon CloudSearch
 Microservices (Kafka, RabbitMQ, MQTT), SEO
 
 **Project Management:**  
-Nifty, Agile, Scrum, Jira
+Nifty, Agile, Scrum, Jira, Asana
 
 **Design/Prototyping:**  
 Figma, UI/UX Design
