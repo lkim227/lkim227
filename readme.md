@@ -321,17 +321,6 @@ Tools: ThingsBoard, MQTT, Docker, Android Studio
 
 Explore more of my projects on my [GitHub profile](https://github.com/lkim227).
 
----
-
-### 📊 GitHub Stats
-
-![Lucas Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkim227&show_icons=true&theme=radical)
-
----
-
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lkim227&theme=onedark)](https://github.com/lkim227)
 
 ---
 
