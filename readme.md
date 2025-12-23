@@ -305,8 +305,8 @@ Tools: Shopify, Node.js
 - Designed "Make Your Home Smart" IoT solution, enhancing energy efficiency
 - Integrated IoT devices for centralized management via ThingsBoard
 - *Tech Stack:*
-Languages: Python, JavaScript, C, Java, C++
-Tools: ThingsBoard, MQTT, Docker, Android Studio
+Languages: Python, JavaScript, MicroC, Java, C++
+Tools: ThingsBoard, MQTT, Docker, Android Studio, MPLAB Studio
 
 ---
 
