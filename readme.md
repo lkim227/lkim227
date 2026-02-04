@@ -219,10 +219,10 @@ Ping me
 ### 🛠️ Technical Skills
 
 **Languages:**  
-SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, Liquid, C, C++, C#, Java, Kotlin, Swift, TypeScript, Python
+SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js), HTML/CSS, PHP, UML, Liquid, C, C++, C#, Java, TypeScript, Python
 
 **Frameworks/Libraries:**  
-NestJS, Laravel, Django, React, Vue, Angular, Redux, Next.js, React Native(Expo), KMP(Compose Multiplatform), Docker, Jest (unit & e2e tests), Svelte, Chrome Extension, AI (IPython, YOLO)
+NestJS, Laravel, Django, React, Vue, Angular, Redux, Next.js, KMP(Compose Multiplatform), Docker, Jest (unit & e2e tests), Chrome Extension, AI (IPython, YOLO), LLMs Integration (OpenAI API, Gemini)
 
 **SDKs/Libraries:**  
 JDK, NDK, OpenCV, Luxand FaceSDK, WinDDK
@@ -260,54 +260,42 @@ Figma, UI/UX Design
 ---
 
 ### 🏆 Experience
+**Software Engineer - Platform support (Remote)**
+*Private Company | Sep 2025 - Present*
+- Working on the Laravel Sail backend with AWS S3 reducing storage
+- Implemented cron jobs that optimize the uploaded media files
+- Optimized codebase for saving the server resources like CPU and RAM
+- Added logging activities for all modules and report the result daily to managers via emails and the status dashboard
+- Integrated a third-party platform successfully as a data-source
+- Created a user-friend frontend using React and Tailwind CSS
 
-**Full Stack Developer | Confidential Retail Technology Company**  
-*Jan 2023 – Present*  
-- Led the integration of a Python Django project with Shopify, improving system performance by 30%
-- Developed a centralized inventory management system, facilitating the sale of unsold items and reducing waste
-- Enhanced user experience by enabling customers to purchase discounted items from nearby stores
-*Tech Stack:*
-Languages: Python, JavaScript
-Frameworks: Django
-Databases: PostgreSQL
-Tools: Docker, CI/CD (GitHub Actions), AWS
+**DevOps Engineer — Cloud Infrastructure Support (Remote)**  
+*U.S.-based technology consulting firm | Jul 2024 – Sep 2025*  
+- Automated AWS infrastructure using Pulumi + Terraform modules (VPC, EKS, API Gateway)
+- Standardized reusable IaC modules + documentation for repeatable environments
+- Implemented Helm workloads; improved deployments using blue/green + canary strategies
+- Integrated Prometheus/Grafana + Slack alerts to reduce incident response time
+- Strengthened CI/CD (GitHub Actions, CodePipeline) for build, scan, rollout/rollback
+- Hardened EKS security with least-privilege access and cluster policies/standards
 
-Project: Hotel Reservation System
-- Directed development of a Hotel Reservation System, optimizing guest booking 
-- Managed Agile project planning, enhancing operational efficiency by 25%
-- Implemented scalable backend solutions with NestJS and Kafka microservices.
-- *Tech Stacks:*
-Languages: JavaScript, TypeScript
-Frameworks: Next.js, NestJS
-Databases: PostgreSQL
-Tools: Docker, Kubernetes, Jira, Nifty
+**IoT Systems Engineer & Full Stack Developer (Hybrid)**  
+*China-based technology consulting firm | Jun 2023 – Jun 2024*  
+- Designed microservices-based IoT hub (ZigBee/Wi-Fi/LoRa/BLE/5G) for home automation
+- Built embedded systems (ESP32, Raspberry Pi, PIC) and full-stack UIs (React + NestJS/Laravel)
+- Implemented edge video detection with ESP32-CAM, OpenCV, YOLOv8
+- Integrated AWS IoT Core + ThingsBoard; implemented OTA updates and device analytics
+- Secured MQTT/HTTPS communication with SSL/TLS and authenticated Modbus protocols
 
-** Full Stack Developer (Remote) | WIGME.COM**  
-*Sept 2021 - Dec 2022*  
-- Improved code quality and backend services, increasing uptime by 20%
-- Collaborated on React best practices for enhanced data management
-- *Tech Stack:*
-Languages: JavaScript, Python
-Frameworks: React
-Tools: Sentry, AWS CloudWatch
+**Full Stack Developer (Remote)**  
+*Confidential IT Solution Company | Sep 2020 – May 2023*  
+- Improved backend services and code quality; increased uptime by ~20%
+- Built and maintained React/Vue components; data visualization and UI improvements
+- Worked in Agile teams to align frontend architecture with product requirements
 
-**Shopify Developer | STORE.MOMOFUKU.COM**  
-*May 2020 - Sept 2021*  
-- Developed Shopify themes and integrated React, improving platform usability
-- Streamlined invoice processing, saving 125,000 manual hours monthly
-- *Tech Stack:*
-Languages: JavaScript, Liquid
-Frameworks: React
-Tools: Shopify, Node.js
-
-**IoT Engineer & Software Developer | Pro-Hub.COM**  
-*Sept 2019 – Jun 2020*  
-- Designed "Make Your Home Smart" IoT solution, enhancing energy efficiency
-- Integrated IoT devices for centralized management via ThingsBoard
-- *Tech Stack:*
-Languages: Python, JavaScript, MicroC, Java, C++
-Tools: ThingsBoard, MQTT, Docker, Android Studio, MPLAB Studio
-
+**Frontend Engineer (Remote)**  
+*Momofuku | Sep 2019 – Sep 2020*  
+- Customized Shopify themes and integrated React
+- Added Jest + Cypress testing pipelines; optimized performance in large React/JS codebases
 ---
 
 ### 🌐 GitHub Projects
