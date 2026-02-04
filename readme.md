@@ -262,7 +262,7 @@ Figma, UI/UX Design
 ### 🏆 Experience
 **Software Engineer - Platform support (Remote)**
 *Private Company | Sep 2025 - Present*
-- Working on the Laravel Sail backend with AWS S3 reducing storage
+- Working on the Laravel Sail backend with AWS S3 reducing storage -- production site -- AWS Cloudway
 - Implemented cron jobs that optimize the uploaded media files
 - Optimized codebase for saving the server resources like CPU and RAM
 - Added logging activities for all modules and report the result daily to managers via emails and the status dashboard
