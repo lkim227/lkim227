@@ -197,10 +197,13 @@
 
 ### 👨‍💻 About Me
 
-Results-oriented Full Stack Developer with over 8 years of comprehensive experience in software development, specializing in Python, Django, Next.js, and NestJS. Proven expertise in database management, API integration, and project leadership within Agile environments. Proficient in developing scalable microservices architectures using Kafka and RabbitMQ. Currently expanding knowledge in blockchain and Web3 technologies, focusing on smart contracts, NFT marketplaces, and Layer 2 solutions.  
+Results-oriented Full Stack Developer with 8+ years of experience building scalable, production-grade systems using Laravel/PHP, Python, Django, Next.js, and NestJS.
 
-I am passionate about learning new technologies and try to complete assignments efficiently and of high quality. If you need assistance, I am here to help and build my reputation through quality work.
-Ping me
+I specialize in designing microservices architectures, high-performance APIs, and event-driven systems using Kafka and RabbitMQ. Experienced in database design, system optimization, and leading projects in Agile environments.
+
+Currently expanding into blockchain and Web3, with hands-on exploration of smart contracts, NFT marketplaces, and Layer 2 solutions.
+
+I value clean architecture, efficient delivery, and long-term maintainability. Always open to meaningful collaboration and solving challenging problems.
 
 ---
 
