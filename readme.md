@@ -260,14 +260,15 @@ Figma, UI/UX Design
 ---
 
 ### 🏆 Experience
-**Software Engineer - Platform support (Remote)**
-*Private Company | Sep 2025 - Present*
-- Working on the Laravel Sail backend with AWS S3 reducing storage -- production site -- AWS Cloudway
-- Implemented cron jobs that optimize the uploaded media files
-- Optimized codebase for saving the server resources like CPU and RAM
-- Added logging activities for all modules and report the result daily to managers via emails and the status dashboard
-- Integrated a third-party platform successfully as a data-source
-- Created a user-friend frontend using React and Tailwind CSS
+**Software Engineer – Platform Support (Remote)**  
+*Private Company | Sep 2025 – Present*
+- Worked on a Laravel Sail–based backend with AWS S3, reducing storage usage on the production environment hosted on Cloudways  
+- Implemented cron jobs to optimize uploaded media files  
+- Optimized the codebase to reduce server resource consumption (CPU and RAM)  
+- Added logging across all modules and generated daily reports for managers via email and a status dashboard  
+- Successfully integrated a third-party platform as a data source  
+- Built a user-friendly frontend using React and Tailwind CSS
+
 
 **DevOps Engineer — Cloud Infrastructure Support (Remote)**  
 *U.S.-based technology consulting firm | Jul 2024 – Sep 2025*  
