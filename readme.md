@@ -318,5 +318,5 @@ Explore more of my projects on my [GitHub profile](https://github.com/lkim227).
 
 ### 📫 Contact
 
-- **Email:** [Lucas Kim](mailto:lucaskimhy@gmail.com)
+- **Email:** [Lucas K. Teoh](mailto:lucaskimhy@gmail.com)
 - **Telegram:** [@black_hole_fear](https://t.me/black_hole_fear)
