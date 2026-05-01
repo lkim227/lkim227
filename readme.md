@@ -118,7 +118,6 @@ Figma, UI/UX Design
 - [**IoT Home Automation Project**](https://github.com/lkim227/iot-home-automation): An IoT-based project for residential automation integrated with ThingsBoard.
 - [**Web3 and Blockchain Development**](https://github.com/lkim227/blockchain-dev): A collection of smart contracts and Web3 tools developed using Rust.
 
-Explore more of my projects on my [GitHub profile](https://github.com/lkim227).
 
 
 ---
