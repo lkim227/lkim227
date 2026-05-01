@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-Results-oriented Full Stack Developer with 8+ years of experience building scalable, production-grade systems using Laravel/PHP, Python, Django, Next.js, and NestJS.
+Results-oriented Full Stack Developer with 8+ years of experience building scalable, production-grade systems using C#/.NET, OneStream, Laravel/PHP, Python, Django, Next.js, and NestJS.
 
 I specialize in designing microservices architectures, high-performance APIs, and event-driven systems using Kafka and RabbitMQ. Experienced in database design, system optimization, and leading projects in Agile environments.
 
