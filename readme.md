@@ -38,7 +38,7 @@ NestJS, Laravel, Django, React, Vue, Angular, Redux, Next.js, KMP(Compose Multip
 JDK, NDK, OpenCV, Luxand FaceSDK, WinDDK
 
 **Databases:**  
-PostgreSQL, MongoDB, MySQL, AWS DynamoDB
+PostgreSQL, MongoDB, MySQL, AWS DynamoDB, AWS RDS
 
 **Authentication:**
 Google OAuth2.0, Firebase, Facebook, Apple
@@ -52,7 +52,7 @@ Paypal SDK, Stripe, Authroize.Net
 Docker, Kubernetes, CI/CD(GitHub Actions), AWS, Nginx, Prisma, DrizzleORM
 
 **Cloud Platforms:**  
-AWS (S3, EC2, Lambda, API Gateway), GCP, Azure, Firebase
+AWS (S3, EC2, RDS, Lambda, API Gateway), GCP, Azure, Firebase
 
 **Search Engines:**  
 Elasticsearch, Apache Solr, Amazon CloudSearch
