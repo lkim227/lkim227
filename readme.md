@@ -124,5 +124,5 @@ Figma, UI/UX Design
 
 ### 📫 Contact
 
-- **Email:** [Lucas K. Teoh](mailto:lucaskimhy@gmail.com)
+- **Email:** [Lucas](mailto:lucaskimhy@gmail.com)
 - **Telegram:** [@black_hole_fear](https://t.me/black_hole_fear)
